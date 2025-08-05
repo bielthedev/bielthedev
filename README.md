@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/98/f9/4e/98f94eaafadac08c1b162420fcb86c15.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
