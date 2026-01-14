@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 <h1 align="center">Olá, eu sou o Gabriel 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack em formação | 📊 Análise de Dados | 🚀 Tecnologia & Soluções Digitais  
+  💻 Desenvolvedor Full Stack em formação | 📊 Análise de Dados | 🚀 Tecnologia & Soluções Digitais
 </p>
 
 <p align="center">
@@ -56,7 +52,10 @@
 
 ## 📊 Linguagens mais usadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielthedev&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielthedev&layout=compact&theme=dark&hide_border=true"
+    alt="Linguagens mais usadas"
+  />
 </p>
 
 ---
@@ -71,5 +70,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bielthedev&show_icons=true&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bielthedev&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
