@@ -50,28 +50,9 @@
 
 ---
 
-## 📊 Linguagens mais usadas
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielthedev&layout=compact&theme=dark&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
-</p>
-
----
-
 ## 🚀 Sobre mim
 - 🎓 Graduado em **Gestão da Tecnologia da Informação**
 - 🌱 Estudando **Desenvolvimento Web Full Stack** e **Análise de Dados**
 - 🧠 Apaixonado por resolver problemas com tecnologia
 - 🔄 Perfil versátil, adaptável a diferentes áreas da tecnologia
 - 💼 Buscando oportunidade na área de tecnologia (**remoto ou híbrido**)
-
----
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bielthedev&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
